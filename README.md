@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @quannh287
-- :grin: I'm a cross-platform developer.
+- 👋 Hi, I’m [Quan](@quannh287)
+- :grin: I have 2 years of experience in the position of React Native developer, I have made apps using React Native with graphQL, made a chat application, and I also have experience in submitting android, ios apps.
 - 👀 I’m interested in reading books, sometimes cooking and jogging.
 - 🌱 I’m currently learning Flutter
-- 📫 How to reach me on Skype - [Skype link](https://join.skype.com/invite/w50V0cldjMuu) , email - [quannh2871](quannh2871@gmail.com)
+- 📫 How to reach me on Skype - [Skype link](https://join.skype.com/invite/w50V0cldjMuu) , email - [quannh2871](quannh2871@gmail.com), and [LinkedIn](https://www.linkedin.com/in/quannh2871/)
 
 <!---
 quannh287/quannh287 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
